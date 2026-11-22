@@ -1,0 +1,9 @@
+# Normalise line endings in the repository; binary assets untouched.
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.html text eol=lf
+*.toml text eol=lf
+*.txt text eol=lf
+*.png binary
+*.pdf binary
